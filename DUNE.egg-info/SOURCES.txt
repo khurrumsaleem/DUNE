@@ -1,4 +1,5 @@
 DUNEReactor.py
+LICENSE
 README.md
 guiTemplate.py
 reactor.py
