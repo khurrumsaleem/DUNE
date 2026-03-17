@@ -358,8 +358,8 @@ DUNE requires Python 3.6 or higher and the following dependencies:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Hridoy-Kabiraj/DUNE.git
-   cd DUNE
+   git clone https://github.com/Hridoy-Kabiraj/DUNE-Nuclear-Reactor-Simulator
+   cd DUNE-Nuclear-Reactor-Simulator
    ```
 
 2. **Install in development mode**:
